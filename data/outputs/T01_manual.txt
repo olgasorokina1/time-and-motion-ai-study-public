@@ -1,0 +1,38 @@
+===== ENCARGO (lo que se pidió) =====
+**Tarea:** Escribe un resumen breve (máximo 8 líneas) de este hilo para tu responsable: qué se pidió, qué ha cambiado, estado actual y próximos pasos.
+
+---
+
+**Correo 1** — De: Marta Ríos (Oficinas Levante) · Para: ventas@mobiliariosur.example · 2 de marzo
+Buenos días. Queremos pedir 24 sillas ergonómicas modelo Ergo-200 en color negro para nuestra nueva oficina. ¿Pueden confirmar precio y plazo de entrega? Necesitamos tenerlas antes del 20 de marzo.
+
+**Correo 2** — De: Javier Molina (Mobiliario Sur) · Para: Marta Ríos · 2 de marzo
+Hola, Marta. El precio es de 145 € por unidad, IVA no incluido. Para 24 unidades podemos entregar el 16 de marzo. Le adjunto el presupuesto n.º P-0312.
+
+**Correo 3** — De: Marta Ríos · Para: Javier Molina · 3 de marzo
+Gracias. Aceptamos el presupuesto. La entrega debe hacerse en Calle Almendro 14, 2.ª planta. Por favor, avisen el día anterior.
+
+**Correo 4** — De: Javier Molina · Para: Marta Ríos · 5 de marzo
+Pedido confirmado con el número 7741. Entrega prevista: 16 de marzo por la mañana.
+
+**Correo 5** — De: Marta Ríos · Para: Javier Molina · 9 de marzo
+Javier, hemos contratado a más personas. ¿Podemos aumentar el pedido a 30 sillas? Las 6 nuevas pueden ser en color gris si no hay negro.
+
+**Correo 6** — De: Javier Molina · Para: Marta Ríos · 10 de marzo
+Podemos añadir 6 sillas, pero en negro solo quedan 26 en almacén. Propongo 26 negras y 4 grises. El precio no cambia. Las 4 grises llegarían el 23 de marzo, el resto el 16.
+
+**Correo 7** — De: Marta Ríos · Para: Javier Molina · 10 de marzo
+De acuerdo con 26 negras y 4 grises. Pero el 23 es tarde para nosotros. ¿Es posible entregar las grises antes del 20?
+
+**Correo 8** — De: Javier Molina · Para: Marta Ríos · 11 de marzo
+He hablado con el almacén. Podemos entregar las 4 grises el 19 de marzo con un coste extra de transporte de 35 €. Necesito su confirmación antes del 13 de marzo para reservar el envío.
+
+===== RESULTADO A EVALUAR =====
+
+Buenos días, Dolores:
+
+Al principio habíamos pedido 16 sillas y la fecha de entrega estaba prevista para el 16 de noviembre. Pero como hemos contratado a más personas, hemos aumentado el pedido con 6 sillas más.
+
+El problema es que 2 vienen en color negro y 4 en color gris. La fecha de entrega del día 19 nos viene bien, pero nos piden un coste adicional de 35 euros. Si no, las 6 sillas adicionales llegarán el día 23.
+
+Aceptamos la propuesta y pagamos el coste adicional o esperamos hasta el día 23?

@@ -1,0 +1,55 @@
+===== ENCARGO (lo que se pidió) =====
+**Tarea:** Crea una tabla con una fila por factura y estas columnas: n.º de factura, fecha (DD/MM/AAAA), proveedor, NIF del proveedor, base imponible, tipo de IVA, cuota de IVA, total.
+
+Todas las facturas están emitidas a: Peluquería Estilo Sur, S.L., NIF B00000002 (datos ficticios).
+
+---
+
+**Factura 1**
+Cosmética Profesional Luz, S.L. · NIF B00000021
+Factura n.º CPL-2087 · Fecha: 2 de junio de 2026
+Concepto: Tintes y champús, pedido mensual
+Base imponible: 534,00 €
+IVA 21 %: 112,14 €
+TOTAL: 646,14 €
+
+**Factura 2**
+Aguas del Litoral, S.A. · NIF A00000022
+Factura n.º AL-551730 · Fecha: 04/06/2026
+Concepto: Suministro de agua, mayo
+Base imponible: 96,30 €
+IVA 10 %: 9,63 €
+TOTAL: 105,93 €
+
+**Factura 3**
+Toallas Algodón Fino · NIF 00000023X
+Factura n.º TF-0641 · Fecha: 9-06-2026
+Concepto: Lavandería de toallas, mayo
+Base imponible: 210,00 €
+IVA 21 %: 44,10 €
+TOTAL: 254,10 €
+
+**Factura 4**
+Telecom Onda, S.A. · NIF A00000024
+Factura n.º TO-88120 · Fecha: 11 junio 2026
+Concepto: Internet y teléfono, junio
+Base imponible: 59,90 €
+IVA 21 %: 12,58 €
+TOTAL: 72,48 €
+
+**Factura 5**
+Librería Papel y Tinta · NIF 00000025M
+Factura n.º LP-309 · Fecha: 2026-06-17
+Concepto: Revistas para sala de espera
+Base imponible: 38,50 €
+IVA 4 %: 1,54 €
+TOTAL: 40,04 €
+
+===== RESULTADO A EVALUAR =====
+
+N.º de factura | Fecha | Proveedor | NIF del proveedor | Base imponible | Tipo de IVA | IVA | Total
+CPL-2087 | 02/06/2026 | Cosmética Profesional Luz, S.L. | B00000021 | 534,00 € | 21 % | 112,14 € | 646,14 €
+AL-551730 | 04/06/2026 | Aguas del Litoral, S.A. | A00000022 | 96,30 € | 10 % | 9,63 € | 105,93 €
+TF-0641 | 09/06/2026 | Toallas Algodón Fino | 00000023X | 210,00 € | 21 % | 44,10 € | 254,10 €
+TO-88120 | 11/06/2026 | Telecom Onda, S.A. | A00000024 | 59,90 € | 21 % | 12,58 € | 72,48 €
+LP-309 | 17/06/2026 | Librería Papel y Tinta | 00000025M | 38,50 € | 4 % | 1,54 € | 40,04 €

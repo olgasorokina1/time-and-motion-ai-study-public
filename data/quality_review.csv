@@ -1,0 +1,11 @@
+task_id,mode,accuracy,completeness,clarity,tone,ready_to_send,average,reviewer_comment
+T01,ai,5,5,5,5,5,5.0,
+T01,manual,5,5,5,4,3,4.4,"esta un poco corto, y le falta el tono formal, pero no se si es necesario y modo de comunicacion en la empresa es bastante frendly."
+T02,ai,5,5,5,5,5,5.0,
+T02,manual,5,5,5,3,4,4.4,Falta el todo formal y yo anaderia algo mas a este correo.
+T03,ai,5,5,5,5,5,5.0,
+T03,manual,5,5,5,5,4,4.8,Quedan pequenas ajustas
+T05,ai,5,5,5,4,5,4.8,El todo es demaciado formal
+T05,manual,5,5,5,5,5,5.0,
+T07,ai,5,5,5,5,5,5.0,
+T07,manual,5,5,5,5,5,5.0,

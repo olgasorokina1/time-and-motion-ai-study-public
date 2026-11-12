@@ -1,0 +1,21 @@
+task_id,mode,run_order,date,tool,minutes,completed,manual_edits,quality_blind_1_to_5,notes
+T01,manual,1,2026-11-10,none,6.0,yes,0,4.4,
+T01,ai,2,2026-11-10,Claude,2.2,yes,2,5.0,anadio el nombre y me hizo la pregunta adicional a la que tenia que responder y asi tarde mas
+T02,manual,2,2026-11-10,none,3.0,yes,0,4.4,
+T02,ai,1,2026-11-10,Claude,2.7,yes,,5.0,"Los datos son iguales, o casi iguales, porque se tardó prácticamente lo mismo en escribir la respuesta al cliente que en escribir el prompt para la IA"
+T03,manual,1,2026-11-10,none,7.8,yes,0,4.8,
+T03,ai,2,2026-11-10,Claude,1.1,yes,3,5.0,"Ha cambiado el orden de las reespustas y dejo casillas donde tenia que anadir a mano la fecha, hora y el lugar de la reunion"
+T04,manual,2,2026-11-10,none,12.1,yes,0,,
+T04,ai,1,2026-11-10,Claude,1.1,yes,3,,3 tareas ha repartido solo y eso tuve que quitar
+T05,manual,1,2026-11-10,none,3.0,yes,0,5.0,
+T05,ai,2,2026-11-10,Claude,1.2,yes,,4.8,
+T06,manual,2,2026-11-10,none,4.1,yes,0,,
+T06,ai,1,2026-11-10,Claude,2.0,yes,1,,Anadi solo mi nombre
+T07,manual,1,2026-11-10,none,15.1,yes,0,5.0,
+T07,ai,2,2026-11-10,Claude,7.2,yes,,5.0,"No pude copiar los datos en formato de tabla, tuve que hacerlo a mano"
+T08,manual,2,2026-11-10,none,12.7,no,0,,
+T08,ai,1,2026-11-10,Claude,3.0,yes,,,"Hizo en formato donde los datos no estaban divididos en columnas, por eso yo ponia todo a mano con copiar y pegar"
+T09,manual,1,2026-11-10,none,4.7,yes,0,,
+T09,ai,2,2026-11-10,Claude,2.1,yes,1,,Anadi solo mi nombre
+T10,manual,2,2026-11-10,none,4.9,no,0,,
+T10,ai,1,2026-11-10,Claude,2.1,yes,,,

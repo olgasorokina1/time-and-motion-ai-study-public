@@ -1,0 +1,55 @@
+===== ENCARGO (lo que se pidió) =====
+**Tarea:** Crea una tabla con una fila por factura y estas columnas: n.º de factura, fecha (DD/MM/AAAA), proveedor, NIF del proveedor, base imponible, tipo de IVA, cuota de IVA, total.
+
+Todas las facturas están emitidas a: Cafetería La Esquina, S.L., NIF B00000001 (datos ficticios).
+
+---
+
+**Factura 1**
+Distribuciones Norte, S.L. · NIF B00000011
+Factura n.º DN-4471 · Fecha: 3 de marzo de 2026
+Concepto: Café en grano, 40 kg
+Base imponible: 612,00 €
+IVA 10 %: 61,20 €
+TOTAL: 673,20 €
+
+**Factura 2**
+Limpiezas Brillo, S.L. · NIF B00000012
+Factura n.º 2026/118 · Fecha: 05/03/2026
+Concepto: Servicio de limpieza, febrero
+Base imponible: 350,00 €
+IVA 21 %: 73,50 €
+TOTAL: 423,50 €
+
+**Factura 3**
+Energía Clara, S.A. · NIF A00000013
+Factura n.º EC-990218 · Fecha: 10-03-2026
+Concepto: Suministro eléctrico, febrero
+Base imponible: 287,45 €
+IVA 21 %: 60,36 €
+TOTAL: 347,81 €
+
+**Factura 4**
+Panadería Trigo de Oro · NIF 00000014Z
+Factura n.º F-0312 · Fecha: 12 marzo 2026
+Concepto: Pan y bollería, primera quincena
+Base imponible: 198,60 €
+IVA 4 %: 7,94 €
+TOTAL: 206,54 €
+
+**Factura 5**
+Reparaciones Fríotec, S.L. · NIF B00000015
+Factura n.º RF-77 · Fecha: 2026-03-18
+Concepto: Reparación de cámara frigorífica
+Base imponible: 145,00 €
+IVA 21 %: 30,45 €
+TOTAL: 175,45 €
+
+===== RESULTADO A EVALUAR =====
+
+N factura | Fecha | Proveedor | NIF de provedor | Base imponible | Tipo de IVA | IVA | Total
+Factura 1 | 03/03/2026 | Distribuciones Norte, S.L | NIF B00000011 | 612 | 10% | 61,2 | 673,2
+Factura 2 | 05/03/2026 | Limpiezas Brillo, S.L | NIF B00000012 | 350 | 21 | 73,5 | 423,5
+Factura 3 | 10/03/2026 | Energía Clara, S.A. | NIF A00000013 | 287,45 | 21 | 60,36 | 347,81
+Factura 4 | 12/03/2026 | Panadería Trigo de Oro | NIF 00000014Z | 198,6 | 4 | 7,94 | 206,54
+Factura 5 | 18/03/2026 | Reparaciones Fríotec, S.L | NIF B00000015 | 145 | 21 | 30,45 | 175,45

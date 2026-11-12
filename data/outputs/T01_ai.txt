@@ -1,0 +1,50 @@
+===== ENCARGO (lo que se pidió) =====
+**Tarea:** Escribe un resumen breve (máximo 8 líneas) de este hilo para tu responsable: qué se pidió, qué ha cambiado, estado actual y próximos pasos.
+
+---
+
+**Correo 1** — De: Pablo Serrano (Clínica Vista Mar) · Para: pedidos@imprentacosta.example · 4 de mayo
+Buenas tardes. Necesitamos 2.000 folletos tamaño A5 a color para una campaña que empieza el 25 de mayo. ¿Me pueden enviar precio y plazo?
+
+**Correo 2** — De: Lucía Campos (Imprenta Costa) · Para: Pablo Serrano · 4 de mayo
+Hola, Pablo. 2.000 folletos A5 a doble cara cuestan 180 €, IVA no incluido. Plazo: 5 días laborables desde que aprueben el diseño. Presupuesto n.º 2291 adjunto.
+
+**Correo 3** — De: Pablo Serrano · Para: Lucía Campos · 5 de mayo
+Aceptamos. Les envío el diseño en PDF. La entrega es en Avenida del Puerto 8, recepción, de 9:00 a 14:00.
+
+**Correo 4** — De: Lucía Campos · Para: Pablo Serrano · 6 de mayo
+Recibido. El PDF tiene las imágenes en baja resolución y saldrán borrosas. ¿Pueden enviarnos las imágenes originales?
+
+**Correo 5** — De: Pablo Serrano · Para: Lucía Campos · 8 de mayo
+Aquí van las imágenes originales. Además, queremos subir la cantidad a 3.000 folletos y cambiar el teléfono del folleto: el nuevo es 900 000 111.
+
+**Correo 6** — De: Lucía Campos · Para: Pablo Serrano · 11 de mayo
+Para 3.000 unidades el precio es de 240 €. Le envío la prueba de impresión con el nuevo teléfono. Si la aprueban hoy, entregamos el 18 de mayo.
+
+**Correo 7** — De: Pablo Serrano · Para: Lucía Campos · 12 de mayo
+La prueba está bien, pero el logotipo debe ir en azul, no en verde. Con ese cambio queda aprobada. ¿Se mantiene la fecha?
+
+**Correo 8** — De: Lucía Campos · Para: Pablo Serrano · 13 de mayo
+Logotipo corregido. Como la aprobación llegó un día más tarde, la entrega pasa al 19 de mayo. Si necesitan los folletos el 18, hay un servicio urgente por 25 € más. Necesito respuesta antes del 14 de mayo a las 12:00.
+
+===== RESULTADO A EVALUAR =====
+
+Asunto: Pedido de sillas para la nueva oficina: necesito tu visto bueno antes del 13 de marzo
+
+Hola, [nombre]:
+
+Te resumo cómo está el pedido de sillas a Mobiliario Sur (pedido n.º 7741) y lo que necesito que decidas.
+
+Decisión pendiente: para recibir las 4 sillas grises el 19 de marzo tenemos que aceptar un coste extra de transporte de 35 € y confirmarlo antes del 13 de marzo. Si no, llegarían el 23, después de nuestra fecha límite del 20. Mi propuesta es aceptarlo. ¿Me das el visto bueno?
+
+Estado del pedido
+
+Cantidad: 30 sillas Ergo-200 (26 negras y 4 grises). Pedimos 24 negras al principio y lo amplié el 9 de marzo por las nuevas contrataciones. Al proveedor solo le quedaban 26 negras, por eso las otras 4 son grises.
+Precio: 145 € por unidad, IVA no incluido (presupuesto P-0312). La ampliación no cambió el precio.
+Importe total: 4.350 € sin IVA, o 4.385 € sin IVA con el transporte extra.
+Entrega de las 26 negras: 16 de marzo por la mañana, ya confirmada.
+Entrega de las 4 grises: 19 de marzo con el extra, o 23 de marzo sin él.
+Lugar: Calle Almendro 14, 2.ª planta. Nos avisarán el día anterior.
+
+Un saludo,
+Marta

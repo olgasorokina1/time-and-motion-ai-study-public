@@ -1,0 +1,43 @@
+===== ENCARGO (lo que se pidió) =====
+**Tarea:** Prepara el orden del día de una reunión de 60 minutos: puntos, tiempo para cada punto y responsable de cada punto.
+
+---
+
+**Tema:** Mudanza de la oficina a un nuevo local
+
+**Participantes:** Elena (directora), Raúl (informática), Nuria (administración), Tomás (recepción)
+
+**Preguntas que hay que tratar:**
+1. ¿Qué fecha exacta elegimos para la mudanza: el fin de semana del 13 o del 20 de junio?
+2. ¿Qué empresa de mudanzas contratamos? Hay dos presupuestos.
+3. ¿Cómo se trasladan los ordenadores y el servidor sin perder días de trabajo?
+4. ¿Quién avisa a clientes y proveedores del cambio de dirección, y cuándo?
+5. ¿Cómo se reparten los puestos en el nuevo local?
+
+===== RESULTADO A EVALUAR =====
+
+Agenda de la reunión
+
+10 min – Elena
+
+Elena va a felicitar a los compañeros porque por fin hemos conseguido una oficina más grande y mejor ubicada. Comentará que la empresa está creciendo y que esto es un buen resultado gracias al trabajo de todos.
+
+10-20 min – Fecha y empresa de mudanza
+
+Decidir la fecha de la mudanza: 13 o 20 de julio.
+
+Comparar las dos empresas:
+- Fejijdsd: 320 euros.
+- Mudawell: 300 euros.
+
+20-30 min – Raúl y Nuria
+
+Hablar de cómo vamos a organizar el traslado para no perder tiempo de trabajo.
+
+30-35 min – Avisar a los clientes
+
+Elegir a una persona encargada de informar a los clientes sobre la nueva dirección y decidir cuándo vamos a hacerlo.
+
+35-60 min – Raúl
+
+Organizar y repartir los puestos de trabajo en la nueva oficina.

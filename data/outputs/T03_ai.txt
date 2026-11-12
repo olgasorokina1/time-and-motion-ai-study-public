@@ -1,0 +1,42 @@
+===== ENCARGO (lo que se pidió) =====
+**Tarea:** Prepara el orden del día de una reunión de 60 minutos: puntos, tiempo para cada punto y responsable de cada punto.
+
+---
+
+**Tema:** Puesta en marcha del nuevo programa de control horario
+
+**Participantes:** Sergio (gerente), Irene (recursos humanos), Óscar (informática), Paula (jefa de tienda)
+
+**Preguntas que hay que tratar:**
+1. ¿Qué fecha de inicio elegimos: el 1 o el 15 de septiembre?
+2. ¿Qué plan contratamos? Hay dos opciones de precio.
+3. ¿Cómo se pasan los datos de los empleados al programa nuevo?
+4. ¿Quién forma al personal y cuándo?
+5. ¿Cómo fichan los empleados que trabajan fuera de la tienda?
+
+===== RESULTADO A EVALUAR =====
+
+Orden del día
+
+Reunión: Puesta en marcha del nuevo programa de control horario
+Fecha y hora: [por definir]
+Lugar: [por definir]
+Duración prevista: 60 minutos
+Participantes: Sergio (gerente), Irene (recursos humanos), Óscar (informática), Paula (jefa de tienda)
+
+Objetivo: salir de la reunión con el plan contratado, la fecha de inicio y un responsable para cada tarea.
+
+N.º	Punto	Presenta	Tiempo
+1	Plan a contratar: comparación de las dos opciones de precio y elección	Sergio	10 min
+2	Fichaje fuera de la tienda: cómo fichan los empleados que trabajan fuera	Paula y Óscar	10 min
+3	Traspaso de datos: cómo se pasan los datos de los empleados al programa nuevo	Óscar e Irene	10 min
+4	Formación del personal: quién la imparte y cuándo	Irene	10 min
+5	Fecha de inicio: 1 o 15 de septiembre	Sergio	10 min
+6	Acuerdos y próximos pasos: resumen de decisiones, responsables y plazos	Todos	10 min
+
+Para preparar antes de la reunión
+
+Sergio: las dos opciones de precio con lo que incluye cada una.
+Óscar: cómo se pueden importar los datos y qué opciones de fichaje a distancia ofrece el programa.
+Irene: propuesta de fechas de formación y la lista de empleados actualizada.
+Paula: cuántos empleados trabajan fuera de la tienda y en qué horarios.

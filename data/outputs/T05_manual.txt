@@ -1,0 +1,24 @@
+===== ENCARGO (lo que se pidió) =====
+**Tarea:** Escribe un aviso claro y cordial para todo el equipo con estos datos.
+
+---
+
+- **Empresa:** Asesoría Mar Azul (12 personas)
+- **Cambio:** horario de verano
+- **Horario actual:** lunes a viernes, 9:00–14:00 y 16:00–19:00
+- **Horario nuevo:** lunes a viernes, 8:00–15:00, sin pausa de mediodía
+- **Fechas:** del 1 de julio al 31 de agosto (los dos incluidos)
+- **Excepción:** atención telefónica a clientes hasta las 17:00; se cubre con un turno rotatorio de una persona por semana
+- **Qué deben hacer:** apuntarse al turno de teléfono en la hoja compartida antes del 20 de junio
+- **Dudas:** hablar con Nuria (administración)
+- **Firma:** Elena Rueda, directora
+
+===== RESULTADO A EVALUAR =====
+
+Horario de verano
+
+Debido a las vacaciones de verano, os informamos de que el horario de nuestra empresa, del 1 al 31 de agosto, será de 9:00 a 14:00.
+
+Por la tarde seguiremos ofreciendo atención telefónica. Para ello, una persona del equipo se encargará de atender las llamadas por turnos.
+
+Muchas gracias por vuestra comprensión.
